@@ -5,7 +5,4 @@
 - 📫 How to reach me ...
 
 <!---
-Anndennisbeautychannel/Anndennisbeautychannel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1246523376379035"
-     crossorigin="anonymous"></script>
+Anndennisbeautychannel/Anndennisbeautychannel is a ✨ special ✨ repository because its `README.md` 
